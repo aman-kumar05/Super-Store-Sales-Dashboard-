@@ -85,4 +85,4 @@ Revealed seasonal sales trends for better planning
 
 Enabled data-backed decisions to optimize pricing and inventory
 Screenshot / Demos 
-So what the dashboard looks like :-
+So what the dashboard looks like :- https://github.com/aman-kumar05/Super-Store-Sales-Dashboard-/blob/main/Super%20Store%20Sales%20Dashboard.png
